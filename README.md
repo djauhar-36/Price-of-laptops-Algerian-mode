@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">💻 Laptop Price Prediction - Algerian Market</h1>
 
 <p align="center">
@@ -263,4 +263,3 @@ The following tables explain the encoding used throughout the dataset.
 <h2>👨‍💻 Author</h2>
 
 <p><strong>Zehar Djauhar Tadj Eddine</strong></p>
-```
